@@ -1,0 +1,19 @@
+Decay Factor,Noise Level,Sampling Algorithm,Overtrained,go right 1,go left 1,go right 2,go left 2
+0.5,0.1,Thompson,True,16.9,100.68,165.94,233.12
+0.5,0.2,Thompson,True,20.62,134.02,232.9,350.38
+0.5,0.3,Thompson,True,23.28,166.08,311.92,483.1
+0.7,0.1,Thompson,True,15.46,92.84,150.26,223.62
+0.7,0.2,Thompson,True,16.66,117.84,225.38,367.76
+0.7,0.3,Thompson,True,19.68,159.82,325.38,518.12
+0.9,0.1,Thompson,True,14.32,90.86,149.0,225.86
+0.9,0.2,Thompson,True,15.04,114.0,228.1,362.36
+0.9,0.3,Thompson,True,19.54,159.44,290.24,461.8
+0.5,0.1,Thompson,False,18.14,40.08,55.78,74.06
+0.5,0.2,Thompson,False,18.28,44.4,75.56,116.84
+0.5,0.3,Thompson,False,25.38,66.98,129.88,218.66
+0.7,0.1,Thompson,False,15.34,33.44,49.74,65.44
+0.7,0.2,Thompson,False,18.0,42.74,70.72,104.44
+0.7,0.3,Thompson,False,21.22,61.24,107.2,183.7
+0.9,0.1,Thompson,False,15.34,32.08,44.68,62.22
+0.9,0.2,Thompson,False,15.0,39.18,66.82,104.64
+0.9,0.3,Thompson,False,17.66,52.06,105.04,172.52
